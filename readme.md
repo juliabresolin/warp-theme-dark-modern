@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/juliabresolin/insomnia-plugin-dark-modern-theme/main/assets/logo.png" alt="Dark Modern Logo" width="80">
+  <img src="https://raw.githubusercontent.com/juliabresolin/warp-theme-dark-modern/main/assets/logo.png" alt="Dark Modern Logo" width="80">
   <br>
   <br>
   Dark Modern for <a href="https://warp.dev">Warp</a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Dark Modern screnshoot for Warp" src="https://raw.githubusercontent.com/juliabresolin/insomnia-plugin-dark-modern-theme/main/assets/screenshot.png">
+  <img alt="Dark Modern screnshoot for Warp" src="https://raw.githubusercontent.com/juliabresolin/warp-theme-dark-modern/main/assets/screenshot.png">
 </p>
 
 ## Install
